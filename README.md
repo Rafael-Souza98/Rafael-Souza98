@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rafael Souza</h1>
 <h3 align="center">A student of Analysis and System Development</h3>
 
-- 🌱 I’m currently learning **React, React Native and Python**
+- 🌱 I’m currently learning **React and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rafael-Souza98?tab=repositories](https://github.com/Rafael-Souza98?tab=repositories)
 
