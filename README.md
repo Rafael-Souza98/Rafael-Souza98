@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **faelsos98@gmail.com**
 
-- 📄 Know about my experiences [Atualmente trabalho com infraestrutura na nuvem (AWS) na empresa e-Core. Possuo conhecimentos em AWS, Linux, Python, Golang, Docker, Terraform e Git. Estou sempre em busca de novos desafios e aprimoramento de habilidades visando evoluir e agregar valor à empresa e à equipe.](Atualmente trabalho com infraestrutura na nuvem (AWS) na empresa e-Core. Possuo conhecimentos em AWS, Linux, Python, Golang, Docker, Terraform e Git. Estou sempre em busca de novos desafios e aprimoramento de habilidades visando evoluir e agregar valor à empresa e à equipe.)
+- 📄 Know about my experiences 
+
+Atualmente trabalho com infraestrutura na nuvem (AWS) na empresa e-Core. Possuo conhecimentos em AWS, Linux, Python, Golang, Docker, Terraform e Git. Estou sempre em busca de novos desafios e aprimoramento de habilidades visando evoluir e agregar valor à empresa e à equipe.](Atualmente trabalho com infraestrutura na nuvem (AWS) na empresa e-Core. Possuo conhecimentos em AWS, Linux, Python, Golang, Docker, Terraform e Git. Estou sempre em busca de novos desafios e aprimoramento de habilidades visando evoluir e agregar valor à empresa e à equipe.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
