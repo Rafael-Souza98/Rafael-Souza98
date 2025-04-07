@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences 
 
-Atualmente trabalho com infraestrutura na nuvem (AWS) na empresa e-Core. Possuo conhecimentos em AWS, Linux, Python, Golang, Docker, Terraform e Git. Estou sempre em busca de novos desafios e aprimoramento de habilidades visando evoluir e agregar valor à empresa e à equipe.](Atualmente trabalho com infraestrutura na nuvem (AWS) na empresa e-Core. Possuo conhecimentos em AWS, Linux, Python, Golang, Docker, Terraform e Git. Estou sempre em busca de novos desafios e aprimoramento de habilidades visando evoluir e agregar valor à empresa e à equipe.
+Me chamo Rafael, tenho 27 anos e moro em Campos dos Goytacazes, região da baixada fluminense do estado do RJ. Tenho trabalhado como Analista DevOps na E-core por 2 anos e 4 meses. Possuo expertise em AWS, Linux, Python, ECS, Terraform, Git, Prometheus, Grafa, Github Actions e um pouco de ArgoCD. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades, com o objetivo de crescer e agregar valor à empresa e à equipe.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
