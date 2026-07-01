@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Souza</h1>
-- 🔭 I’m currently working in **e-Core**
+- 🔭 I’m currently working in **Pagbank**
 
 - 🌱 I’m currently learning **Kubernetes**
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences 
 
-Me chamo Rafael, tenho 27 anos e moro em Campos dos Goytacazes, região da baixada fluminense do estado do RJ. Tenho trabalhado como Analista DevOps na E-core por 2 anos e 4 meses. Possuo expertise em AWS, Linux, Python, ECS, Terraform, Git, Prometheus, Grafa, Github Actions e um pouco de ArgoCD. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades, com o objetivo de crescer e agregar valor à empresa e à equipe.
+Me chamo Rafael, tenho 28 anos e moro em Campos dos Goytacazes, região da baixada fluminense do estado do RJ. Tenho trabalhado como Site Releiability Engineer no Pagbank já faz 1 ano. Também atuei como Infrastructure Analyst I na E-core por cerca de 2 anos e meio. Possuo experiência em AWS, Linux, Python, ECS, Terraform, Git, Prometheus, Grafa, Github Actions, Kubernetes, Jenkins e um pouco de ArgoCD. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades, com o objetivo de crescer e agregar valor à empresa e à equipe.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
